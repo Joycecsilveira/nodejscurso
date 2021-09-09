@@ -1,0 +1,31 @@
+{
+  "name": "nodejscurso",
+  "version": "1.0.0",
+  "description": "Repositório do curso de NodeJS da Hcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joycecsilveira/nodejscurso.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "dup",
+    "crypto"
+  ],
+  "author": "Joyce Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joycecsilveira/nodejscurso/issues"
+  },
+  "homepage": "https://github.com/Joycecsilveira/nodejscurso#readme"
+}
