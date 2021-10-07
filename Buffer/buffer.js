@@ -16,4 +16,4 @@ console.log(buf_string.toString());
 //É um buffer ou não? (Comentar anteriores antes de executar)
 const buf_string = Buffer.from("Carregando uma string", "utf-8");
 console.log(Buffer.isBuffer(buf_string));
-console.log(buf_string.toString("utf-8", 0, 10)); // Trazendo apenas uma parte do buffer, informando o encode e bits que eu quero dentro dessa String.
+console.log(buf_string.toString("utf-8", 0, 10)); // Trazendo apenas uma parte do buffer, informando o unicode e bits que eu quero dentro dessa String.
